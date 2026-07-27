@@ -1,72 +1,254 @@
-# 💫 About Me:
-👋 Hi, I'm Ahasan Habib Mallick  
+# <div align="center">
 
-💻 SAP Backend Developer | ABAP | S/4HANA Cloud  
-🚀 Aspiring Backend Engineer (FastAPI | Django)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Ahasan%20Habib%20Mallick&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SAP%20ABAP%20Developer%20%7C%20Backend%20Developer%20%7C%20FastAPI%20Enthusiast&descAlignY=60"/>
 
-🎓 Computer Science undergraduate passionate about building scalable backend systems and solving real-world problems.
+</div>
 
-🔧 Skilled in:  
-SAP ABAP | RAP | CDS Views | OData | Python | FastAPI | Django | SQL | C++  
+<h1 align="center">Hi 👋, I'm Ahasan Habib Mallick</h1>
 
-📌 Currently focusing on:  
-- Advanced SAP ABAP (RAP Model)  
-- Backend Development with FastAPI  
-- Data Structures & Algorithms  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SAP+ABAP+Developer;Backend+Developer;FastAPI+Developer;Django+Developer;Learning+RAP+Model;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-⚡ I love coding, learning new technologies, and building impactful projects.
+<p align="center">
 
----
+<a href="https://komarev.com/ghpvc/?username=ahasanhabibmallick">
+<img src="https://komarev.com/ghpvc/?username=ahasanhabibmallick&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahasan_42)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahasan-habib-mallick-0ab050287/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahasanhabibmallick@gmail.com)
+<a href="https://github.com/ahasanhabibmallick?tab=followers">
+<img src="https://img.shields.io/github/followers/ahasanhabibmallick?label=Followers&style=for-the-badge"/>
+</a>
 
----
+<a href="https://github.com/ahasanhabibmallick">
+<img src="https://img.shields.io/github/stars/ahasanhabibmallick?affiliations=OWNER&style=for-the-badge"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![Stats](https://github-readme-stats.shion.dev/api?username=ahasanhabibmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# 👨‍💻 About Me
 
-![Streak](https://streak-stats.demolab.com/?user=ahasanhabibmallick&theme=dark&hide_border=false)
+<table>
+<tr>
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=ahasanhabibmallick&theme=dark&hide_border=false&layout=compact)
+<td width="60%">
+
+💻 SAP Backend Developer with a passion for designing scalable enterprise applications.
+
+🎓 Computer Science Undergraduate.
+
+🚀 Currently expanding my expertise in Backend Development using FastAPI & Django.
+
+🌱 Learning SAP RAP Model, CDS Views, OData Services and Cloud Development.
+
+💡 Passionate about solving real-world problems through clean architecture and efficient code.
+
+🎯 Goal for 2026:
+
+* SAP Certified Developer
+* Master RAP Model
+* Build 10+ Backend Projects
+* Contribute to Open Source
+* Improve DSA & System Design
+
+⚡ Fun Fact:
+
+> I enjoy transforming complex business requirements into elegant backend solutions.
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🔥 Contribution Heatmap
-![Heatmap](heatmap.svg)
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ahasanhabibmallick@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahasan-habib-mallick-0ab050287/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/ahasan_42">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahasanhabibmallick&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github,cpp,c,vscode"/>
+
+</p>
+
+### SAP Technologies
+
+* SAP ABAP
+* RAP Model
+* CDS Views
+* OData
+* SAP S/4HANA Cloud
+* SAP BTP (Learning)
 
 ---
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📚 Currently Learning
+
+* 🌱 Advanced SAP RAP Development
+* 🚀 FastAPI Backend Development
+* 🐳 Docker
+* 🗄 PostgreSQL
+* ⚡ System Design
+* 📈 Data Structures & Algorithms
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=ahasanhabibmallick&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahasanhabibmallick&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ahasanhabibmallick&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahasanhabibmallick&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=ahasanhabibmallick&color=blue)
+# 📈 GitHub Activity Graph
 
-<!-- Proudly created with GPRM -->
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahasanhabibmallick&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ahasanhabibmallick/ahasanhabibmallick/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Heatmap
+
+<p align="center">
+
+<img src="heatmap.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahasanhabibmallick&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+| Project                       | Description                                                |
+| ----------------------------- | ---------------------------------------------------------- |
+| 🚀 Portfolio Website          | Modern personal portfolio built using React & Tailwind CSS |
+| 💼 SAP RAP Projects           | Enterprise applications using RAP Model                    |
+| 📊 Employee Management System | CRUD application using FastAPI                             |
+| 🔐 Authentication API         | JWT Authentication with FastAPI                            |
+| 🌦 Weather App                | REST API based weather application                         |
+| 🤖 Python Automation          | Useful automation scripts                                  |
+
+> Replace these with your actual repositories and links.
+
+---
+
+# 📈 Contribution Stats
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ahasanhabibmallick&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 2026 Goals
+
+✅ SAP Certified Developer
+
+✅ Master RAP Model
+
+✅ Build SaaS Backend Projects
+
+✅ Learn Kubernetes
+
+✅ Contribute to Open Source
+
+✅ 1000+ DSA Problems
+
+---
+
+# ⚙️ Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker,postman,pycharm"/>
+
+</p>
+
+---
+
+# ❤️ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
+</div>
